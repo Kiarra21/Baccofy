@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Views\Auth\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Auth\Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Menu\Akun\Manajemen_Akun.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Menu\Gaji\Gaji_Petani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Menu\MenuOwner.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Menu\MenuPetani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Menu\Pupuk_Bibit\DetailPencatatan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Menu\Pupuk_Bibit\Pencatatan_Pupuk_Bibit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Splashscreen\main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

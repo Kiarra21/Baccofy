@@ -1,0 +1,49 @@
+C:\Users\kiarr\source\repos\Baccofy\bin\Debug\net8.0-windows\Baccofy.exe
+C:\Users\kiarr\source\repos\Baccofy\bin\Debug\net8.0-windows\Baccofy.deps.json
+C:\Users\kiarr\source\repos\Baccofy\bin\Debug\net8.0-windows\Baccofy.runtimeconfig.json
+C:\Users\kiarr\source\repos\Baccofy\bin\Debug\net8.0-windows\Baccofy.dll
+C:\Users\kiarr\source\repos\Baccofy\bin\Debug\net8.0-windows\Baccofy.pdb
+C:\Users\kiarr\source\repos\Baccofy\obj\Debug\net8.0-windows\Baccofy.Properties.Resources.resources
+C:\Users\kiarr\source\repos\Baccofy\obj\Debug\net8.0-windows\Baccofy.View.Splashscreen.main.resources
+C:\Users\kiarr\source\repos\Baccofy\obj\Debug\net8.0-windows\Baccofy.csproj.GenerateResource.cache
+C:\Users\kiarr\source\repos\Baccofy\obj\Debug\net8.0-windows\Baccofy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiarr\source\repos\Baccofy\obj\Debug\net8.0-windows\Baccofy.AssemblyInfoInputs.cache
+C:\Users\kiarr\source\repos\Baccofy\obj\Debug\net8.0-windows\Baccofy.AssemblyInfo.cs
+C:\Users\kiarr\source\repos\Baccofy\obj\Debug\net8.0-windows\Baccofy.csproj.CoreCompileInputs.cache
+C:\Users\kiarr\source\repos\Baccofy\obj\Debug\net8.0-windows\Baccofy.dll
+C:\Users\kiarr\source\repos\Baccofy\obj\Debug\net8.0-windows\refint\Baccofy.dll
+C:\Users\kiarr\source\repos\Baccofy\obj\Debug\net8.0-windows\Baccofy.pdb
+C:\Users\kiarr\source\repos\Baccofy\obj\Debug\net8.0-windows\Baccofy.genruntimeconfig.cache
+C:\Users\kiarr\source\repos\Baccofy\obj\Debug\net8.0-windows\ref\Baccofy.dll
+C:\Users\kiarr\source\repos\Baccofy\obj\Debug\net8.0-windows\Baccofy.View.Auth.Login.resources
+C:\Users\kiarr\source\repos\Baccofy\obj\Debug\net8.0-windows\Baccofy.View.Auth.Register.resources
+D:\Kuliah farel\Baccofy\Baccofy\bin\Debug\net8.0-windows\Baccofy.exe
+D:\Kuliah farel\Baccofy\Baccofy\bin\Debug\net8.0-windows\Baccofy.deps.json
+D:\Kuliah farel\Baccofy\Baccofy\bin\Debug\net8.0-windows\Baccofy.runtimeconfig.json
+D:\Kuliah farel\Baccofy\Baccofy\bin\Debug\net8.0-windows\Baccofy.dll
+D:\Kuliah farel\Baccofy\Baccofy\bin\Debug\net8.0-windows\Baccofy.pdb
+D:\Kuliah farel\Baccofy\Baccofy\obj\Debug\net8.0-windows\Baccofy.Properties.Resources.resources
+D:\Kuliah farel\Baccofy\Baccofy\obj\Debug\net8.0-windows\Baccofy.csproj.GenerateResource.cache
+D:\Kuliah farel\Baccofy\Baccofy\obj\Debug\net8.0-windows\Baccofy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah farel\Baccofy\Baccofy\obj\Debug\net8.0-windows\Baccofy.AssemblyInfoInputs.cache
+D:\Kuliah farel\Baccofy\Baccofy\obj\Debug\net8.0-windows\Baccofy.AssemblyInfo.cs
+D:\Kuliah farel\Baccofy\Baccofy\obj\Debug\net8.0-windows\Baccofy.csproj.CoreCompileInputs.cache
+D:\Kuliah farel\Baccofy\Baccofy\obj\Debug\net8.0-windows\Baccofy.dll
+D:\Kuliah farel\Baccofy\Baccofy\obj\Debug\net8.0-windows\refint\Baccofy.dll
+D:\Kuliah farel\Baccofy\Baccofy\obj\Debug\net8.0-windows\Baccofy.pdb
+D:\Kuliah farel\Baccofy\Baccofy\obj\Debug\net8.0-windows\Baccofy.genruntimeconfig.cache
+D:\Kuliah farel\Baccofy\Baccofy\obj\Debug\net8.0-windows\ref\Baccofy.dll
+D:\Kuliah farel\Baccofy\Baccofy\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Kuliah farel\Baccofy\Baccofy\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Kuliah farel\Baccofy\Baccofy\bin\Debug\net8.0-windows\Npgsql.dll
+D:\Kuliah farel\Baccofy\Baccofy\obj\Debug\net8.0-windows\Baccofy.csproj.AssemblyReference.cache
+D:\Kuliah farel\Baccofy\Baccofy\obj\Debug\net8.0-windows\Baccofy.Views.Auth.Login.resources
+D:\Kuliah farel\Baccofy\Baccofy\obj\Debug\net8.0-windows\Baccofy.Views.Auth.Register.resources
+D:\Kuliah farel\Baccofy\Baccofy\obj\Debug\net8.0-windows\Baccofy.Views.Splashscreen.main.resources
+D:\Kuliah farel\Baccofy\Baccofy\obj\Debug\net8.0-windows\Baccofy.csproj.Up2Date
+D:\Kuliah farel\Baccofy\Baccofy\obj\Debug\net8.0-windows\Baccofy.Views.Menu.MenuOwner.resources
+D:\Kuliah farel\Baccofy\Baccofy\obj\Debug\net8.0-windows\Baccofy.Views.Menu.MenuPetani.resources
+D:\Kuliah farel\Baccofy\Baccofy\obj\Debug\net8.0-windows\Baccofy.Views.Menu.Akun.Manajemen_Akun.resources
+D:\Kuliah farel\Baccofy\Baccofy\obj\Debug\net8.0-windows\Baccofy.Views.Menu.Gaji.Gaji_Petani.resources
+D:\Kuliah farel\Baccofy\Baccofy\obj\Debug\net8.0-windows\Baccofy.Views.Menu.Pupuk_Bibit.Pencatatan_Pupuk_Bibit.resources
+D:\Kuliah farel\Baccofy\Baccofy\obj\Debug\net8.0-windows\Baccofy.Views.Menu.Pupuk_Bibit.DetailPencatatan.resources

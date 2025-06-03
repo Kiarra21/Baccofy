@@ -1,0 +1,739 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Kuliah farel\\Baccofy\\Baccofy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|D:\\Kuliah farel\\Baccofy\\Baccofy\\views\\splashscreen\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|solutionrelative:views\\splashscreen\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|d:\\kuliah farel\\baccofy\\baccofy\\views\\menu\\menupetani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|solutionrelative:views\\menu\\menupetani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|D:\\Kuliah farel\\Baccofy\\Baccofy\\views\\menu\\menupetani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|solutionrelative:views\\menu\\menupetani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|d:\\kuliah farel\\baccofy\\baccofy\\views\\menu\\menuowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|solutionrelative:views\\menu\\menuowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|D:\\Kuliah farel\\Baccofy\\Baccofy\\views\\menu\\menuowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|solutionrelative:views\\menu\\menuowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|d:\\kuliah farel\\baccofy\\baccofy\\views\\menu\\pupuk_bibit\\pencatatan_pupuk_bibit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|solutionrelative:views\\menu\\pupuk_bibit\\pencatatan_pupuk_bibit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|D:\\Kuliah farel\\Baccofy\\Baccofy\\views\\menu\\pupuk_bibit\\pencatatan_pupuk_bibit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|solutionrelative:views\\menu\\pupuk_bibit\\pencatatan_pupuk_bibit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|d:\\kuliah farel\\baccofy\\baccofy\\views\\menu\\pupuk_bibit\\detailpencatatan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|solutionrelative:views\\menu\\pupuk_bibit\\detailpencatatan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|D:\\Kuliah farel\\Baccofy\\Baccofy\\views\\menu\\pupuk_bibit\\detailpencatatan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|solutionrelative:views\\menu\\pupuk_bibit\\detailpencatatan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|d:\\kuliah farel\\baccofy\\baccofy\\views\\menu\\gaji\\gaji_petani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|solutionrelative:views\\menu\\gaji\\gaji_petani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|D:\\Kuliah farel\\Baccofy\\Baccofy\\views\\menu\\gaji\\gaji_petani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|solutionrelative:views\\menu\\gaji\\gaji_petani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|d:\\kuliah farel\\baccofy\\baccofy\\views\\menu\\akun\\manajemen_akun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|solutionrelative:views\\menu\\akun\\manajemen_akun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|D:\\Kuliah farel\\Baccofy\\Baccofy\\views\\menu\\akun\\manajemen_akun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|solutionrelative:views\\menu\\akun\\manajemen_akun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|d:\\kuliah farel\\baccofy\\baccofy\\views\\auth\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|solutionrelative:views\\auth\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|D:\\Kuliah farel\\Baccofy\\Baccofy\\views\\auth\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|solutionrelative:views\\auth\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|d:\\kuliah farel\\baccofy\\baccofy\\views\\auth\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|solutionrelative:views\\auth\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|D:\\Kuliah farel\\Baccofy\\Baccofy\\views\\auth\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|solutionrelative:views\\auth\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|d:\\kuliah farel\\baccofy\\baccofy\\models\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|solutionrelative:models\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|d:\\kuliah farel\\baccofy\\baccofy\\models\\rolemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|solutionrelative:models\\rolemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|d:\\kuliah farel\\baccofy\\baccofy\\models\\pencatatanmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|solutionrelative:models\\pencatatanmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|d:\\kuliah farel\\baccofy\\baccofy\\models\\gajipetanimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|solutionrelative:models\\gajipetanimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|d:\\kuliah farel\\baccofy\\baccofy\\models\\detailpencatatanmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|solutionrelative:models\\detailpencatatanmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|d:\\kuliah farel\\baccofy\\baccofy\\models\\bahanmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|solutionrelative:models\\bahanmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|d:\\kuliah farel\\baccofy\\baccofy\\models\\akunmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|solutionrelative:models\\akunmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|d:\\kuliah farel\\baccofy\\baccofy\\controllers\\pencatatancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|solutionrelative:controllers\\pencatatancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|d:\\kuliah farel\\baccofy\\baccofy\\controllers\\gajipetanicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|solutionrelative:controllers\\gajipetanicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|d:\\kuliah farel\\baccofy\\baccofy\\controllers\\detailpencatatancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|solutionrelative:controllers\\detailpencatatancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|d:\\kuliah farel\\baccofy\\baccofy\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|d:\\kuliah farel\\baccofy\\baccofy\\controllers\\akuncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|solutionrelative:controllers\\akuncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|d:\\kuliah farel\\baccofy\\baccofy\\views\\menu\\gaji\\gaji_petani.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|solutionrelative:views\\menu\\gaji\\gaji_petani.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|d:\\kuliah farel\\baccofy\\baccofy\\config\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|solutionrelative:config\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|d:\\kuliah farel\\baccofy\\baccofy\\views\\splashscreen\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|solutionrelative:views\\splashscreen\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|d:\\kuliah farel\\baccofy\\baccofy\\views\\menu\\pupuk_bibit\\detailpencatatan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|solutionrelative:views\\menu\\pupuk_bibit\\detailpencatatan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|d:\\kuliah farel\\baccofy\\baccofy\\views\\menu\\pupuk_bibit\\pencatatan_pupuk_bibit.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|solutionrelative:views\\menu\\pupuk_bibit\\pencatatan_pupuk_bibit.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|d:\\kuliah farel\\baccofy\\baccofy\\baccofy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|solutionrelative:baccofy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|d:\\kuliah farel\\baccofy\\baccofy\\views\\splashscreen\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|solutionrelative:views\\splashscreen\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|d:\\kuliah farel\\baccofy\\baccofy\\views\\auth\\register.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|solutionrelative:views\\auth\\register.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|d:\\kuliah farel\\baccofy\\baccofy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18AA491-F014-4B36-8E3D-B59CA1620E4B}|Baccofy.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Kuliah farel\\Baccofy\\Baccofy\\Views\\Dashboard\\DashboardOwner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Dashboard\\DashboardOwner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Kuliah farel\\Baccofy\\Baccofy\\views\\dashboard\\dashboardowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:views\\dashboard\\dashboardowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MenuOwner.cs [Design]",
+              "DocumentMoniker": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Views\\Menu\\MenuOwner.cs",
+              "RelativeDocumentMoniker": "Views\\Menu\\MenuOwner.cs",
+              "ToolTip": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Views\\Menu\\MenuOwner.cs [Design]",
+              "RelativeToolTip": "Views\\Menu\\MenuOwner.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T14:18:07.509Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuOwner.cs",
+              "DocumentMoniker": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Views\\Menu\\MenuOwner.cs",
+              "RelativeDocumentMoniker": "Views\\Menu\\MenuOwner.cs",
+              "ToolTip": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Views\\Menu\\MenuOwner.cs",
+              "RelativeToolTip": "Views\\Menu\\MenuOwner.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAACAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T15:25:47.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuPetani.cs [Design]",
+              "DocumentMoniker": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Views\\Menu\\MenuPetani.cs",
+              "RelativeDocumentMoniker": "Views\\Menu\\MenuPetani.cs",
+              "ToolTip": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Views\\Menu\\MenuPetani.cs [Design]",
+              "RelativeToolTip": "Views\\Menu\\MenuPetani.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T09:29:13.688Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuPetani.cs",
+              "DocumentMoniker": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Views\\Menu\\MenuPetani.cs",
+              "RelativeDocumentMoniker": "Views\\Menu\\MenuPetani.cs",
+              "ToolTip": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Views\\Menu\\MenuPetani.cs",
+              "RelativeToolTip": "Views\\Menu\\MenuPetani.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T09:30:01.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cs [Design]",
+              "DocumentMoniker": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Views\\Splashscreen\\main.cs",
+              "RelativeDocumentMoniker": "Views\\Splashscreen\\main.cs",
+              "ToolTip": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Views\\Splashscreen\\main.cs [Design]",
+              "RelativeToolTip": "Views\\Splashscreen\\main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T10:24:14.938Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pencatatan_Pupuk_Bibit.cs",
+              "DocumentMoniker": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Views\\Menu\\Pupuk_Bibit\\Pencatatan_Pupuk_Bibit.cs",
+              "RelativeDocumentMoniker": "Views\\Menu\\Pupuk_Bibit\\Pencatatan_Pupuk_Bibit.cs",
+              "ToolTip": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Views\\Menu\\Pupuk_Bibit\\Pencatatan_Pupuk_Bibit.cs",
+              "RelativeToolTip": "Views\\Menu\\Pupuk_Bibit\\Pencatatan_Pupuk_Bibit.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAEwD4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T07:18:20.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pencatatan_Pupuk_Bibit.cs [Design]",
+              "DocumentMoniker": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Views\\Menu\\Pupuk_Bibit\\Pencatatan_Pupuk_Bibit.cs",
+              "RelativeDocumentMoniker": "Views\\Menu\\Pupuk_Bibit\\Pencatatan_Pupuk_Bibit.cs",
+              "ToolTip": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Views\\Menu\\Pupuk_Bibit\\Pencatatan_Pupuk_Bibit.cs [Design]",
+              "RelativeToolTip": "Views\\Menu\\Pupuk_Bibit\\Pencatatan_Pupuk_Bibit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T07:00:39.054Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DetailPencatatan.cs",
+              "DocumentMoniker": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Views\\Menu\\Pupuk_Bibit\\DetailPencatatan.cs",
+              "RelativeDocumentMoniker": "Views\\Menu\\Pupuk_Bibit\\DetailPencatatan.cs",
+              "ToolTip": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Views\\Menu\\Pupuk_Bibit\\DetailPencatatan.cs",
+              "RelativeToolTip": "Views\\Menu\\Pupuk_Bibit\\DetailPencatatan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T08:44:20.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DetailPencatatan.cs [Design]",
+              "DocumentMoniker": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Views\\Menu\\Pupuk_Bibit\\DetailPencatatan.cs",
+              "RelativeDocumentMoniker": "Views\\Menu\\Pupuk_Bibit\\DetailPencatatan.cs",
+              "ToolTip": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Views\\Menu\\Pupuk_Bibit\\DetailPencatatan.cs [Design]",
+              "RelativeToolTip": "Views\\Menu\\Pupuk_Bibit\\DetailPencatatan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T08:43:05.264Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Gaji_Petani.cs",
+              "DocumentMoniker": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Views\\Menu\\Gaji\\Gaji_Petani.cs",
+              "RelativeDocumentMoniker": "Views\\Menu\\Gaji\\Gaji_Petani.cs",
+              "ToolTip": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Views\\Menu\\Gaji\\Gaji_Petani.cs",
+              "RelativeToolTip": "Views\\Menu\\Gaji\\Gaji_Petani.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAswDkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T15:38:24.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Gaji_Petani.cs [Design]",
+              "DocumentMoniker": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Views\\Menu\\Gaji\\Gaji_Petani.cs",
+              "RelativeDocumentMoniker": "Views\\Menu\\Gaji\\Gaji_Petani.cs",
+              "ToolTip": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Views\\Menu\\Gaji\\Gaji_Petani.cs [Design]",
+              "RelativeToolTip": "Views\\Menu\\Gaji\\Gaji_Petani.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T06:54:21.364Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Manajemen_Akun.cs",
+              "DocumentMoniker": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Views\\Menu\\Akun\\Manajemen_Akun.cs",
+              "RelativeDocumentMoniker": "Views\\Menu\\Akun\\Manajemen_Akun.cs",
+              "ToolTip": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Views\\Menu\\Akun\\Manajemen_Akun.cs",
+              "RelativeToolTip": "Views\\Menu\\Akun\\Manajemen_Akun.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAlwFUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T07:11:04.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Manajemen_Akun.cs [Design]",
+              "DocumentMoniker": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Views\\Menu\\Akun\\Manajemen_Akun.cs",
+              "RelativeDocumentMoniker": "Views\\Menu\\Akun\\Manajemen_Akun.cs",
+              "ToolTip": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Views\\Menu\\Akun\\Manajemen_Akun.cs [Design]",
+              "RelativeToolTip": "Views\\Menu\\Akun\\Manajemen_Akun.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T07:04:46.65Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Register.cs",
+              "DocumentMoniker": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Views\\Auth\\Register.cs",
+              "RelativeDocumentMoniker": "Views\\Auth\\Register.cs",
+              "ToolTip": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Views\\Auth\\Register.cs",
+              "RelativeToolTip": "Views\\Auth\\Register.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAIAwwCcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T12:19:24.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Register.cs [Design]",
+              "DocumentMoniker": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Views\\Auth\\Register.cs",
+              "RelativeDocumentMoniker": "Views\\Auth\\Register.cs",
+              "ToolTip": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Views\\Auth\\Register.cs [Design]",
+              "RelativeToolTip": "Views\\Auth\\Register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T11:25:31.502Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Views\\Auth\\Login.cs",
+              "RelativeDocumentMoniker": "Views\\Auth\\Login.cs",
+              "ToolTip": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Views\\Auth\\Login.cs",
+              "RelativeToolTip": "Views\\Auth\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T08:07:07.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Views\\Auth\\Login.cs",
+              "RelativeDocumentMoniker": "Views\\Auth\\Login.cs",
+              "ToolTip": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Views\\Auth\\Login.cs [Design]",
+              "RelativeToolTip": "Views\\Auth\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T14:26:09.233Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Session.cs",
+              "DocumentMoniker": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Models\\Session.cs",
+              "RelativeDocumentMoniker": "Models\\Session.cs",
+              "ToolTip": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Models\\Session.cs",
+              "RelativeToolTip": "Models\\Session.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T15:13:19.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RoleModel.cs",
+              "DocumentMoniker": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Models\\RoleModel.cs",
+              "RelativeDocumentMoniker": "Models\\RoleModel.cs",
+              "ToolTip": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Models\\RoleModel.cs",
+              "RelativeToolTip": "Models\\RoleModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T15:48:14.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PencatatanModel.cs",
+              "DocumentMoniker": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Models\\PencatatanModel.cs",
+              "RelativeDocumentMoniker": "Models\\PencatatanModel.cs",
+              "ToolTip": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Models\\PencatatanModel.cs",
+              "RelativeToolTip": "Models\\PencatatanModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T07:33:43.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GajiPetaniModel.cs",
+              "DocumentMoniker": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Models\\GajiPetaniModel.cs",
+              "RelativeDocumentMoniker": "Models\\GajiPetaniModel.cs",
+              "ToolTip": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Models\\GajiPetaniModel.cs",
+              "RelativeToolTip": "Models\\GajiPetaniModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T16:19:30.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DetailPencatatanModel.cs",
+              "DocumentMoniker": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Models\\DetailPencatatanModel.cs",
+              "RelativeDocumentMoniker": "Models\\DetailPencatatanModel.cs",
+              "ToolTip": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Models\\DetailPencatatanModel.cs",
+              "RelativeToolTip": "Models\\DetailPencatatanModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T08:54:31.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BahanModel.cs",
+              "DocumentMoniker": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Models\\BahanModel.cs",
+              "RelativeDocumentMoniker": "Models\\BahanModel.cs",
+              "ToolTip": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Models\\BahanModel.cs",
+              "RelativeToolTip": "Models\\BahanModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T09:07:58.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AkunModel.cs",
+              "DocumentMoniker": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Models\\AkunModel.cs",
+              "RelativeDocumentMoniker": "Models\\AkunModel.cs",
+              "ToolTip": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Models\\AkunModel.cs",
+              "RelativeToolTip": "Models\\AkunModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T05:28:02.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PencatatanController.cs",
+              "DocumentMoniker": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Controllers\\PencatatanController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PencatatanController.cs",
+              "ToolTip": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Controllers\\PencatatanController.cs",
+              "RelativeToolTip": "Controllers\\PencatatanController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T07:34:24.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GajiPetaniController.cs",
+              "DocumentMoniker": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Controllers\\GajiPetaniController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GajiPetaniController.cs",
+              "ToolTip": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Controllers\\GajiPetaniController.cs",
+              "RelativeToolTip": "Controllers\\GajiPetaniController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwv0UAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T16:20:00.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DetailPencatatanController.cs",
+              "DocumentMoniker": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Controllers\\DetailPencatatanController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DetailPencatatanController.cs",
+              "ToolTip": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Controllers\\DetailPencatatanController.cs",
+              "RelativeToolTip": "Controllers\\DetailPencatatanController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T08:54:54.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAA1wD0AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T05:35:04.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AkunController.cs",
+              "DocumentMoniker": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Controllers\\AkunController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AkunController.cs",
+              "ToolTip": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Controllers\\AkunController.cs",
+              "RelativeToolTip": "Controllers\\AkunController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwFMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T15:50:02.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Gaji_Petani.Designer.cs",
+              "DocumentMoniker": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Views\\Menu\\Gaji\\Gaji_Petani.Designer.cs",
+              "RelativeDocumentMoniker": "Views\\Menu\\Gaji\\Gaji_Petani.Designer.cs",
+              "ToolTip": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Views\\Menu\\Gaji\\Gaji_Petani.Designer.cs",
+              "RelativeToolTip": "Views\\Menu\\Gaji\\Gaji_Petani.Designer.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowD0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T17:28:45.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DbConnection.cs",
+              "DocumentMoniker": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Config\\DbConnection.cs",
+              "RelativeDocumentMoniker": "Config\\DbConnection.cs",
+              "ToolTip": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Config\\DbConnection.cs",
+              "RelativeToolTip": "Config\\DbConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T05:48:13.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "main.cs",
+              "DocumentMoniker": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Views\\Splashscreen\\main.cs",
+              "RelativeDocumentMoniker": "Views\\Splashscreen\\main.cs",
+              "ToolTip": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Views\\Splashscreen\\main.cs",
+              "RelativeToolTip": "Views\\Splashscreen\\main.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAkwCAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T10:33:34.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DetailPencatatan.Designer.cs",
+              "DocumentMoniker": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Views\\Menu\\Pupuk_Bibit\\DetailPencatatan.Designer.cs",
+              "RelativeDocumentMoniker": "Views\\Menu\\Pupuk_Bibit\\DetailPencatatan.Designer.cs",
+              "ToolTip": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Views\\Menu\\Pupuk_Bibit\\DetailPencatatan.Designer.cs",
+              "RelativeToolTip": "Views\\Menu\\Pupuk_Bibit\\DetailPencatatan.Designer.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAhwFsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T09:09:36.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Pencatatan_Pupuk_Bibit.Designer.cs",
+              "DocumentMoniker": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Views\\Menu\\Pupuk_Bibit\\Pencatatan_Pupuk_Bibit.Designer.cs",
+              "RelativeDocumentMoniker": "Views\\Menu\\Pupuk_Bibit\\Pencatatan_Pupuk_Bibit.Designer.cs",
+              "ToolTip": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Views\\Menu\\Pupuk_Bibit\\Pencatatan_Pupuk_Bibit.Designer.cs",
+              "RelativeToolTip": "Views\\Menu\\Pupuk_Bibit\\Pencatatan_Pupuk_Bibit.Designer.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAqwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T07:47:49.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Register.Designer.cs",
+              "DocumentMoniker": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Views\\Auth\\Register.Designer.cs",
+              "RelativeDocumentMoniker": "Views\\Auth\\Register.Designer.cs",
+              "ToolTip": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Views\\Auth\\Register.Designer.cs",
+              "RelativeToolTip": "Views\\Auth\\Register.Designer.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAowF8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T05:42:09.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "main.Designer.cs",
+              "DocumentMoniker": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Views\\Splashscreen\\main.Designer.cs",
+              "RelativeDocumentMoniker": "Views\\Splashscreen\\main.Designer.cs",
+              "ToolTip": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Views\\Splashscreen\\main.Designer.cs",
+              "RelativeToolTip": "Views\\Splashscreen\\main.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T05:41:44.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DashboardOwner.cs",
+              "DocumentMoniker": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Views\\Dashboard\\DashboardOwner.cs",
+              "RelativeDocumentMoniker": "Views\\Dashboard\\DashboardOwner.cs",
+              "ToolTip": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Views\\Dashboard\\DashboardOwner.cs",
+              "RelativeToolTip": "Views\\Dashboard\\DashboardOwner.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T05:40:25.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "DashboardOwner.cs [Design]",
+              "DocumentMoniker": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Views\\Dashboard\\DashboardOwner.cs",
+              "RelativeDocumentMoniker": "Views\\Dashboard\\DashboardOwner.cs",
+              "ToolTip": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Views\\Dashboard\\DashboardOwner.cs [Design]",
+              "RelativeToolTip": "Views\\Dashboard\\DashboardOwner.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T05:40:13.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAALgUAAAAAAAAAAAtwMkUAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-05-30T11:44:45.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Baccofy.csproj",
+              "DocumentMoniker": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Baccofy.csproj",
+              "RelativeDocumentMoniker": "Baccofy.csproj",
+              "ToolTip": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Baccofy.csproj",
+              "RelativeToolTip": "Baccofy.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-30T10:22:18.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Kuliah farel\\Baccofy\\Baccofy\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T10:22:11.248Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
